@@ -10,7 +10,6 @@ yarn install
 
 ```
 yarn start
-
 ```
 
 # iOS
